@@ -124,6 +124,7 @@ namespace SuareChase
             // TODO: Add your update logic here
 
             base.Update(gameTime);
+            //A ver si ya funciona xD
         }
 
         /// <summary>
