@@ -1,0 +1,2 @@
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChaseContent\obj\x86\Debug\SuareChaseContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChaseContent\obj\x86\Debug\SuareChaseContent.contentprojResolveAssemblyReference.cache
