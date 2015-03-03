@@ -1,0 +1,14 @@
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\bin\x86\Debug\SuareChase.exe
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\bin\x86\Debug\SuareChase.pdb
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\obj\x86\Debug\SuareChase.csprojResolveAssemblyReference.cache
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\obj\x86\Debug\SuareChase.exe
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\obj\x86\Debug\SuareChase.pdb
+c:\users\ernesto\documents\visual studio 2010\Projects\SuareChase\SuareChase\SuareChase\bin\x86\Debug\Content\spriteSquare.xnb
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\bin\x86\Debug\Content\spriteSquare.xnb
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\bin\x86\Debug\SuareChase.exe
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\bin\x86\Debug\SuareChase.pdb
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\obj\x86\Debug\SuareChase.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\obj\x86\Debug\SuareChase.exe
+C:\Users\Ernesto\Documents\c sharp\SuareChase\SuareChase\SuareChase\obj\x86\Debug\SuareChase.pdb
